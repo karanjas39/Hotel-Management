@@ -36,4 +36,10 @@ This will start the HotelManagement console application.
 
 ## Screenshots
 
+<img src="https://github.com/karanjas39/Hotel-Management/blob/master/Images/1.png" width="800px">
+<img src="https://github.com/karanjas39/Hotel-Management/blob/master/Images/2.png" width="800px">
+<img src="https://github.com/karanjas39/Hotel-Management/blob/master/Images/3.png" width="800px">
+<img src="https://github.com/karanjas39/Hotel-Management/blob/master/Images/4.png" width="800px">
+
+### More Updates will be released soon!!!
 
